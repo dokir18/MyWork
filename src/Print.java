@@ -4,7 +4,7 @@ public class Print {
     }
 
     private static void fun1() {
-        System.out.println("hello word");
+        System.out.println("hello word");//提取方法
     }
 }
 
